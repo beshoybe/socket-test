@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1045511573379",
+    "project_id": "gsdcmacs-2023",
+    "storage_bucket": "gsdcmacs-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045511573379:android:5a24e3a4127d5b12acf0b6",
+        "android_client_info": {
+          "package_name": "com.example.client_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045511573379-tmm21vff59o2qv14c9qb5mr5kj4h0c6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7o8L19iah1d0tCK8dnSNfQr-wJ-cO6zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045511573379-tmm21vff59o2qv14c9qb5mr5kj4h0c6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045511573379-5jj3rm2568b7jfh23gpdn4ksdfht29k2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clientApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
